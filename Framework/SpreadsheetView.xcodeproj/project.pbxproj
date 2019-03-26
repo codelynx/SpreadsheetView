@@ -644,11 +644,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.kishikawakatsumi.SpreadsheetView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
-<<<<<<< HEAD
 				SWIFT_VERSION = 5.0;
-=======
-				SWIFT_VERSION = 4.2;
->>>>>>> e4dddb1785141c2103809593f1a3dc0dd8d5ce7b
 			};
 			name = Debug;
 		};
@@ -668,11 +664,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.kishikawakatsumi.SpreadsheetView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
-<<<<<<< HEAD
 				SWIFT_VERSION = 5.0;
-=======
-				SWIFT_VERSION = 4.2;
->>>>>>> e4dddb1785141c2103809593f1a3dc0dd8d5ce7b
 			};
 			name = Release;
 		};
